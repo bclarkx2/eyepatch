@@ -1,0 +1,4 @@
+> /home/brian/school/440/eyepatch/get_issues.py(148)scrape_usages()
+-> pull_id = pull_id_result[0]
+(Pdb) --KeyboardInterrupt--
+(Pdb) 

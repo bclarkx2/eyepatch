@@ -1,0 +1,6 @@
+
+ls | grep -v '^test_' | grep '.*.py' > test_files
+
+metrics -f test_files
+
+rm test_files
